@@ -5,7 +5,7 @@ https://phonefee.musecloak.com/
 >  模擬電信業者解約計算。簡易實現模擬邏輯，如有更好的方案歡迎 update
 >  參考目前 https://deternan.github.io/Phone_damages/web_version/index.html 
 
-<img src="https://phonefee.musecloak.com/pic.png " width="400">
+<img src="https://github.com/museseeu/phonedamn/blob/master/screenshot.png" width="400">
 
 ### step:
 
